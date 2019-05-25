@@ -1,0 +1,11 @@
+D:\C#\Problem_2_Bongo\Problem_2_Bongo\bin\Debug\netcoreapp2.1\Problem_2_Bongo.deps.json
+D:\C#\Problem_2_Bongo\Problem_2_Bongo\bin\Debug\netcoreapp2.1\Problem_2_Bongo.runtimeconfig.json
+D:\C#\Problem_2_Bongo\Problem_2_Bongo\bin\Debug\netcoreapp2.1\Problem_2_Bongo.runtimeconfig.dev.json
+D:\C#\Problem_2_Bongo\Problem_2_Bongo\bin\Debug\netcoreapp2.1\Problem_2_Bongo.dll
+D:\C#\Problem_2_Bongo\Problem_2_Bongo\obj\Debug\netcoreapp2.1\Problem_2_Bongo.csprojAssemblyReference.cache
+D:\C#\Problem_2_Bongo\Problem_2_Bongo\obj\Debug\netcoreapp2.1\Problem_2_Bongo.csproj.CoreCompileInputs.cache
+D:\C#\Problem_2_Bongo\Problem_2_Bongo\obj\Debug\netcoreapp2.1\Problem_2_Bongo.AssemblyInfoInputs.cache
+D:\C#\Problem_2_Bongo\Problem_2_Bongo\obj\Debug\netcoreapp2.1\Problem_2_Bongo.AssemblyInfo.cs
+D:\C#\Problem_2_Bongo\Problem_2_Bongo\bin\Debug\netcoreapp2.1\Problem_2_Bongo.pdb
+D:\C#\Problem_2_Bongo\Problem_2_Bongo\obj\Debug\netcoreapp2.1\Problem_2_Bongo.dll
+D:\C#\Problem_2_Bongo\Problem_2_Bongo\obj\Debug\netcoreapp2.1\Problem_2_Bongo.pdb
